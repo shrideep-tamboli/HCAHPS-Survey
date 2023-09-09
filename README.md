@@ -11,3 +11,7 @@ How to enhance the quality of service hospitals give from the survey results?
 ### Solution:
 1. Calculate increase / decrease in the values of Top Box Rating (9 or 10) & Bottom Box Rating (0-6) **by YEAR**.
 2. Calculate increase / decrease in the values of Top Box Rating (9 or 10) & Bottom Box Rating (0-6) **by MEASURE_ID**(type of service).
+### Details:
+1. KPIs on this dashboard:
+* Excellent Services / Top Box check: Change in Top Box Rating since 2013 i.e. [Top Box Rating in 20XX] - [Top Box Rating in 2013]
+* Poor Services / Bottom Box check: Change in Bottom Box Rating since 2013 i.e. [Bottom Box Rating in 20XX] - [Bottom Box Rating in 2013]
