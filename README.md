@@ -14,8 +14,10 @@ How to enhance the quality of service hospitals give from the survey results?
 ### Details:
 1. KPIs on this dashboard:
 * Excellent Services / Top Box check: Change in Top Box Rating since 2013
-  i.e. [Top Box Rating in 20XX] - [Top Box Rating in 2013]
+ 
+ i.e. [Top Box Rating in 20XX] - [Top Box Rating in 2013]
 * Poor Services / Bottom Box check: Change in Bottom Box Rating since 2013
+
   i.e. [Bottom Box Rating in 20XX] - [Bottom Box Rating in 2013]
 2. Indication of performance:
 * Hike in performance: Blue is above Pink.
