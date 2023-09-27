@@ -8,9 +8,11 @@ How to enhance the quality of service hospitals give from the survey results?
 2. Are there any specific areas where hospitals have made more progress than others?
 3. Are there any major areas of opportunity remaining?
 4. What recommendations can you make to hospitals to help them further improve the patient experience?
-### Solution:
-1. Calculate increase / decrease in the values of Top Box Rating (9 or 10) & Bottom Box Rating (0-6) **by YEAR**.
-2. Calculate increase / decrease in the values of Top Box Rating (9 or 10) & Bottom Box Rating (0-6) **by MEASURE_ID**(type of service).
+### Approach:
+1. Create stakeholder requirements, project requirements, and dashboard requirements documents. 
+2. Implement a data pipeline for the data flow from source(BigQuery) to destination(Tableau).
+3. Create calculated fields in Tableau for use as KPIs.
+4. Create a dashboard report using the KPIs and other features in the database
 ### Details:
 1. KPIs on this dashboard:
 * Excellent Services / Top Box check: Change in Top Box Rating since 2013
