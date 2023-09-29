@@ -1,15 +1,17 @@
-Stakeholder Requirements Document: HCAHPS 
-                                                                                        
 BI Professional: Shrideep Tamboli
 Client/Sponsor: American Hospital Association (AHA)
+
 Business problem: 
 1. How to improve the services provided by the hospitals?
 2. Which areas made more progress than others?
 3. Which service areas have the opportunity to improve further?
 4. What recommendations by patients can prove effective to improve the services?
+
 Stakeholders: AHA, Maven Analytics
+
 Stakeholder usage details: 
 To give incentives to the hospitals by looking at their performance over the past 9 years recorded by the HCAHPS survey and making decisions on how the services can be improved further.
+
 Primary requirements: 
 ● A viz to look at the HCAHPS score over 9 yrs (Drilled down in DATE Format and filtered by Location) [maybe a waterfall, line chart..]
 ● To see which areas (service/location) saw more growth? (like outliers, for services/areas having their scores increase than the average increment of scores)
