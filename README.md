@@ -11,8 +11,8 @@ How to enhance the quality of service hospitals give from the survey results?
 ### Approach:
 1. Create stakeholder requirements, project requirements, and dashboard requirements documents. 
 2. Implement a data pipeline for the data flow from source to Data Lake to Data Warehouse to BI Tools.
-3. Create calculated fields in Tableau for use as KPIs.
-4. Create a dashboard report using the KPIs and other features in the database
+3. Create KPIs calculated fields in Tableau.
+4. Create a dashboard report using the KPIs and other features in the database.
 ### Details:
 1. KPIs on this dashboard:
 * Excellent Services / Top Box check: Change in Top Box Rating since 2013
