@@ -1,7 +1,7 @@
-Project Requirements Document: HCAHPS                                                                                       
 BI Analyst: Shrideep Tamboli
 Client/Sponsor: American Hospital Association (AHA)
 Purpose: To increase the quality of services provided by hospitals.
+
 Key dependencies: 
 Survey Data including User satisfaction with different areas of service, Overall hospital rating, and Hospital Recommendations.
 Stakeholder requirements: 
@@ -13,9 +13,13 @@ Stakeholder requirements:
 
 Success criteria: 
 Specific: BI Insights must be able to identify if the HCAHPS survey had an impact on the quality of service provided by the hospitals.
+
 Measurable: The performance of the hospitals can be tracked by measuring the HCAHPS score, and the recommendations of the hospitals by the patients.
+
 Action-Oriented: This dashboard must prove the impact of the survey on the quality of services of the hospitals and what can be done to improve the services.
+
 Relevant: All metrics must be associated with the goal of reflecting on the impact of the survey.
+
 Time-bound: Data spread out over 9 years 
  
 User journeys: The main purpose of the HCAHPS surveys is to collect the patient’s experience with the service provided in the hospital so that hospitals can provide better service by working on the survey results.
